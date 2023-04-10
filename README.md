@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 - 👔 I've experienced the internship in [IAV](https://en.wikipedia.org/wiki/IAV_GmbH)[^2][ GmbH](https://en.wikipedia.org/wiki/IAV_GmbH) in Shanghai for Automotive Engineering from June to September in 2022.
 - 🤔 I'm a railfan.
 - 📫 You can contact me via [mail](mailto:gu.pq@ro.ru).
+- 🌍 I can understand English, Mandarin, French, Russian, German, Ukrainian, Japanese and speak the former 3.
 [^1]: *Xi'an University of Electronic Science and Technology* in Chinese.
 [^2]: Short for *Ingenieurgesellschaft Auto und Verkehr*.
