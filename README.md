@@ -1,4 +1,4 @@
-### Hi there 👋
+# Greetings | Grüß Gott! 👋
 
 <!--
 **K-PK66/K-PK66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🏫 I'm now an undergraduate in Faculty of Computer Science and Technology in [Xidian University](https://en.wikipedia.org/wiki/Xidian_University)[^1].
+- 👔 I've experienced the internship in [IAV](https://en.wikipedia.org/wiki/IAV_GmbH)[^2][ GmbH](https://en.wikipedia.org/wiki/IAV_GmbH) in Shanghai for Automotive Engineering from June to September in 2022.
+- 🤔 I'm a railfan.
+- 📫 You can contact me via [mail](mailto:gu.pq@ro.ru).
+[^1]: *Xi'an University of Electronic Science and Technology* in Chinese.
+[^2]: Short for *Ingenieurgesellschaft Auto und Verkehr*.
