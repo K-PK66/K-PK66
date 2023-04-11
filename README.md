@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🏫 I'm now an undergraduate in Faculty of Computer Science and Technology in [Xidian University](https://en.wikipedia.org/wiki/Xidian_University)[^1].
-- 👔 I've experienced the internship in [IAV](https://en.wikipedia.org/wiki/IAV_GmbH)[^2][ GmbH](https://en.wikipedia.org/wiki/IAV_GmbH) in Shanghai for Automotive Engineering from June to September in 2022.
+- 👔 I've experienced the internship in [IAV GmbH](https://en.wikipedia.org/wiki/IAV_GmbH)[^2] in Shanghai for Automotive Engineering from June to September in 2022.
 - 🤔 I'm a railfan.
 - 📫 You can contact me via [mail](mailto:gu.pq@ro.ru).
 - 🌍 I can understand English, Mandarin, French, Russian, Cantonese, German, Japanese, Ukrainian, Italian and Spanish, capable of speaking the former 7.
