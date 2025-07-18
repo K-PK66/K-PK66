@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🏫 I have graduated from Faculty of Computer Science and Technology in [Xidian University] (https://en.wikipedia.org/wiki/Xidian_University)[^1] in 2025.
+- 🏫 I have graduated from Faculty of Computer Science and Technology in [Xidian University](https://en.wikipedia.org/wiki/Xidian_University)[^1] in 2025.
 - 👔 I've experienced the internship in the Shanghai Branch of [IAV GmbH](https://en.wikipedia.org/wiki/IAV_GmbH)[^2] for Test Automation regarding Automotive Engineering from June to September in 2022 and am now working in HSDC, the technological support department for HSBC.
 - 🤔 I'm a railfan.
 - 📫 You can contact me via [mail](mailto:gu.pq@ro.ru).
