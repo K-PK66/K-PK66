@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🏫 I have graduated from Faculty of Computer Science and Technology in [Xidian University](https://en.wikipedia.org/wiki/Xidian_University)[^1] in 2025.
-- 👔 I've experienced the internship in the Shanghai Branch of [IAV GmbH](https://en.wikipedia.org/wiki/IAV_GmbH)[^2] for Test Automation regarding Automotive Engineering from June to September in 2022 and am now working in HSDC, the technological support department for HSBC.
+- 👔 I've experienced the internship in the Shanghai Branch of [IAV GmbH](https://en.wikipedia.org/wiki/IAV_GmbH)[^2] for Test Automation regarding Automotive Engineering from June to September in 2022 and am now working in HSDC, the technological support department for HSBC[^3].
 - 🤔 I'm a railfan.
 - 📫 You can contact me via [mail](mailto:gu.pq@ro.ru).
 - 🌍 I can understand English, Mandarin, French, Russian, Cantonese, German, Japanese, Ukrainian, Italian and Spanish, capable of speaking the former 7.
@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 
 [^1]: *Xi'an University of Electronic Science and Technology* in Chinese.
 [^2]: Short for *Ingenieurgesellschaft Auto und Verkehr*.
+[^3]: Short for *Hong Kong and Shanghai Banking Corporation*.
